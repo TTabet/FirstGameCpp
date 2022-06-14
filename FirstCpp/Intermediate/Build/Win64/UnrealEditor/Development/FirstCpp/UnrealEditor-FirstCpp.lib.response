@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FirstCpp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\FirstCppEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\FirstCppGameModeBase.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\FirstCppUserWidget.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\SpherePlayer.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\ItemBase.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\FirstCpp.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\FirstCpp.init.gen.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\FirstCppGameModeBase.gen.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\FirstCppUserWidget.gen.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\ItemBase.gen.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\SpherePlayer.gen.cpp.obj"
+"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\Default.rc2.res"
+/OUT:"C:\Users\Tarookie\Documents\Unreal Projects\PPR301_Assessment1\FirstCpp\Intermediate\Build\Win64\UnrealEditor\Development\FirstCpp\UnrealEditor-FirstCpp.lib"

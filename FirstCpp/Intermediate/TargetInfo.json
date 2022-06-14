@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstCpp",
+			"Path": "C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Source\\FirstCpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstCppEditor",
+			"Path": "C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Source\\FirstCppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

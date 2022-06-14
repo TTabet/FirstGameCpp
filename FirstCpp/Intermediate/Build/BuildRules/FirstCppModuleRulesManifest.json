@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Source\\FirstCpp\\FirstCpp.Build.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Source\\FirstCpp.Target.cs",
+		"C:\\Users\\Tarookie\\Documents\\Unreal Projects\\PPR301_Assessment1\\FirstCpp\\Source\\FirstCppEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

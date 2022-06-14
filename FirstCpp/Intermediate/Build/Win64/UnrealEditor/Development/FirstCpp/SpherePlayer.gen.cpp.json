@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\firstcpp\\sphereplayer.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\intermediate\\build\\win64\\firstcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\intermediate\\build\\win64\\unrealeditor\\development\\firstcpp\\definitions.firstcpp.h",
+            "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\source\\firstcpp\\game\\sphereplayer.h",
+            "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\firstcpp\\sphereplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

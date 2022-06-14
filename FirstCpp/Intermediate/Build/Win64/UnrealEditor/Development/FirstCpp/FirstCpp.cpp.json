@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\source\\firstcpp\\firstcpp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\intermediate\\build\\win64\\firstcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\intermediate\\build\\win64\\unrealeditor\\development\\firstcpp\\definitions.firstcpp.h",
+            "c:\\users\\tarookie\\documents\\unreal projects\\ppr301_assessment1\\firstcpp\\source\\firstcpp\\firstcpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
