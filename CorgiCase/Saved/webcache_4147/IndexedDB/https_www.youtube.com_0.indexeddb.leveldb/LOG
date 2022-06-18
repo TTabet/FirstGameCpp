@@ -1,0 +1,5 @@
+2022/06/18-16:36:59.611 2918 Reusing MANIFEST C:/Users/Tarookie/Documents/Unreal Projects/PPR301_Assessment1/CorgiCase/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/18-17:32:03.963 24c4 Level-0 table #5: started
+2022/06/18-17:32:03.968 24c4 Level-0 table #5: 7832 bytes OK
+2022/06/18-17:32:03.970 24c4 Delete type=0 #3
+2022/06/18-17:32:03.971 24c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
